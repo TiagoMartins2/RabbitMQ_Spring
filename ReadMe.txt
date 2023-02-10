@@ -12,3 +12,11 @@ O que você aprenderá
   ->RabbitMQ With Spring MVC Using Rabbit Template and Rabbit Listener
   ->Spring Boot, Spring Cloud and Spring MVC Applications Deployment To Pivotal Cloud Foundry
   ->Spring Boot & RabbitMQ On Heroku (Cloud Platform)
+
+
+INSTALLATION VIDEOVIDEO TO INSTALL RABBITMQ ON YOUR COMPUTER
+https://www.youtube.com/watch?v=nBZ1pIAuWZw&t=32s&ab_channel=ClarkNgo
+
+
+IN CASE OF ERROR 1067 IN STARTING THE SERVER USE THIS LINK
+https://stackoverflow.com/questions/16001047/rabbitmq-fails-to-start
