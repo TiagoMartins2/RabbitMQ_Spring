@@ -23,7 +23,7 @@ public class DirectConsumer {
             System.out.println ("Message received = " + message);
         };
 
-        channel.basicConsume("AC", true, deliverCallback, consumerTag -> {
+        channel.basicConsume("Mobile", true, deliverCallback, consumerTag -> {
 
         });
     }
